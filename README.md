@@ -1,2 +1,3 @@
 # math-pancakes
-Este repositório contem alguns codigos feitos por mim que contem, basicamente, teoremas da matematica aplicados em linguagem de programação em alto nivel :-)
+Este repositório contém alguns códigos feitos por mim que apresentam, basicamente, teoremas da matemática aplicados em linguagem de programação de alto nível. 
+Fique a vontade caso necessite.
