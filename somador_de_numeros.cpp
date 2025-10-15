@@ -10,6 +10,6 @@ int main()
   std::cin >> number_one;
   std::cout << "Digite outro número:\n";
   std::cin >> number_two;
-  std:: cout << "a soma dos dois números digitados são:\n" << sum << endl;
+  std:: cout << "a soma dos dois números digitados são:\n" << sum;
   return 0;//retorno do zero//
 }//fim do programa
