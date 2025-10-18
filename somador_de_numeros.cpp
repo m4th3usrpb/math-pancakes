@@ -4,13 +4,15 @@
 //função main//
 int main()
 {
-  int numberone = 0, numbertwo = 0; //basicamente essas váriaveis são do tipo inteiro e elas guardam o que o usuário necessitar//
-  float sum = 0.0f; //essa variável é do tipo float,ela guarda o resultado da soma//
-  std::cout << "Digite um número:\n";
-  std::cin >> numberone;
-  std::cout << "Digite outro número:\n";
-  std::cin >> numbertwo;
-  sum = numberone + numbertwo; //a soma em si, feita após ler os valores//
-  std::cout << "a soma dos dois números digitados são:\n" << sum;
+  int number1;
+  int number2;
+  int sum;
+  std::cout<<"Digite o primeiro número inteiro: ";//entrada do primeiro número//
+  std::cin>>number1;//leitura do primeiro número//
+  std::cout<<"Digite o segundo número inteiro: ";//entrada do segundo número//
+  std::cin>>number2;//leitura do segundo número//
+  sum=number1+number2;//soma dos dois números//
+  std::cout<<"A soma dos dois números é: "<<sum<<std::endl;//exibição do resultado//
+  
   return 0;//retorno do zero//
 }//fim do programa
