@@ -1,11 +1,11 @@
+#***************************************************************#
 #Primeiro programa em Python do math-pancakes
 #Este programa é simples, calcula a área da circunferenica
-#by Matheus Regis
-#ASSEMBLED Ubutun Linux
-#This program was made in lab computer in university
+#Autor: Matheus Regis
+#Versão do Python: 3.13
+#***************************************************************#
 
-#Boas vindas!
-print('Hello World')
+#Boas Vindas
 print('Bem vindo ao meu programa que calcula áreas de circunferênicancias')
 
 #importar a biblioteca math 
